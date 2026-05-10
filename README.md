@@ -1,6 +1,6 @@
 # Whack-a-Mole
 
-This is a simple Whack-a-Mole game built with HTML, CSS, and jQuery for COMP4021 Lab 1.
+This is a simple Whack-a-Mole game built with HTML, CSS, and jQuery.
 
 ## Game Overview
 
